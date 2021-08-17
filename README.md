@@ -4,4 +4,4 @@
 
 ##Confira o resultado clicando no Gif.
 
-<a href="https://github.com/marioCarvalho001/Projeto-de-CSS3-Flexbox." target="_blank"><img src="https://thumbs.gfycat.com/SmallVillainousDavidstiger-size_restricted.gif" alt="Gif de desenho antigo"></a>
+<a href="https://mariocarvalho001.github.io/Projeto-de-CSS3-Flexbox./" target="_blank"><img src="https://thumbs.gfycat.com/SmallVillainousDavidstiger-size_restricted.gif" alt="Gif de desenho antigo"></a>
