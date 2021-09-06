@@ -1,4 +1,4 @@
-# FlexBlog
+# Blog
 
 🤠🤠Olá! Neste projeto de CSS3 usei a ferramenta Flex-box, Flex-grow, Flex-basis e Flex-container. 
 
